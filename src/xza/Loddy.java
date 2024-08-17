@@ -10,6 +10,11 @@ public class Loddy {
 		}
 public void m2() {
 	System.out.println("cholo");
+
+	}
+public void m2() {
+	System.out.println("cholo");
+
 	}
 
 }
